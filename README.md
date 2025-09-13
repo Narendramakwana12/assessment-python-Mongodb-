@@ -1,5 +1,5 @@
 # Employee Management API (FastAPI + MongoDB)
-This project is a FastAPI-based REST API for managing employees with MongoDB.
+This project is a FastAPI-based REST API for managing employees details with MongoDB.
 
 ## Features
 - Create, Read, Update, Delete Employees
