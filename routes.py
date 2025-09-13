@@ -6,7 +6,7 @@ router = APIRouter()
 
 @router.get("/")
 def home():
-    return {"message": "Employee API with MongoDB is running 🚀"}
+    return {"message": "Employee API with MongoDB is running "}
 
 from datetime import date, datetime
 
